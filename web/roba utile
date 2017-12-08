@@ -1,0 +1,17 @@
+roba utile
+
+BOTTONI
+<ul class="nav nav-pills nav-fill" class="navbar navbar-expand-lg navbar-light bg-light">
+  <li class="nav-item">
+    <a class="nav-link active" href="cup.php">CUP (Centro Unico Prenotazioni)</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="ris.php">RIS (Delitti Imperfetti)</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="drg.php">DRG (omnia gallia in tria)</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="sdo.php">SDO (Scheda di Dimissione Ospedaliera)</a>
+  </li>
+</ul>

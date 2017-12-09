@@ -32,5 +32,6 @@ body{background-image:url(images/imago.png);
 	 font-size: 30px}
 
 p{text-align:center;
+  text-rendering: 10px
   color: black;
   background-color:rgba(255, 255, 255, 0.9)}

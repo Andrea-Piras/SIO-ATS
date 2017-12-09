@@ -15,3 +15,35 @@ BOTTONI
     <a class="nav-link active" href="sdo.php">SDO (Scheda di Dimissione Ospedaliera)</a>
   </li>
 </ul>
+
+
+
+
+quella roba dei bottoni che non riesco a far funzionare
+
+<button type="button" class="btn btn-primary btn-lg">Large button</button>
+<button type="button" class="btn btn-primary btn-lg">Large button</button>
+
+<button type="button" class="btn btn-primary btn-lg">Large button</button>
+<button type="button" class="btn btn-primary btn-lg">Large button</button>
+
+
+
+
+
+
+
+<button>
+
+ <li class="nav-item"> 
+    <a class="nav-link active" class="col-md-3 mb-3" href="cup.php">CUP (Centro Unico Prenotazioni)</a></li>
+</button>
+<button> <li class="nav-item">
+    <a class="nav-link active" class="col-md-3 mb-3" href="ris.php">RIS .KKFUHAELI UGERHILULUIS</a></li>
+</button>
+<button> <li class="nav-item">
+    <a class="nav-link active" class="col-md-3 mb-3" href="drg.php">RIS E.KKFUHAELI UGERHILULUIS</a></li>
+</button>
+<button> <li class="nav-item">
+    <a class="nav-link active" class="col-md-3 mb-3" href="sdo.php">RIS E.KKFUHAELIUGER HILULUIS</a></li>
+</button>

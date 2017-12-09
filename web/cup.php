@@ -6,7 +6,7 @@
 
 	<?php include('navbar.php'); ?>
 
-	<h1>C.U.P.</h1>
+	<h1>C.U.P. (Centro Unico di Prenotazione)</h1>
 
 	<form class="container" id="needs-validation" novalidate>
 		<div class="row">

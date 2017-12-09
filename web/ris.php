@@ -7,7 +7,7 @@
 
 	<?php include('navbar.php'); ?>
 
-	<h1>R.I.S.</h1>
+	<h1>R.I.S. (Immagini e referti)</h1>
 
 	<form class="container" id="needs-validation" novalidate>
 		<div class="row">

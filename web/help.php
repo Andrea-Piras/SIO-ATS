@@ -8,17 +8,18 @@
 
   <h1>Cosa puoi fare:</h1>
 
-  <p>In questo sito potrai:visualizzare i tuoi esami, firmare i fogli di dimissione e trovare l'ago nel pagliaglio.
- In altro a destra nella barra di navigazione troverai dei bottoni che ti reindirizzeranno ai vari servizi del SIO.
- 
-
-Cliccando su CUP accederai al servizio di prenotazione degli esami, dove potrai inserire i tuoi dati e prenotare l'esame da te richiesto.
-
-Cliccando su RIS potrai vedere un sacco di cose belle.
-
-Cliccando su DRG
-
-Cliccando su SDO potrai compilare il tuo foglio di dimissione, che ti permetterà di lasciare la struttura.</p>
+  <p>
+  	 <br>
+  	  <br>
+ In altro a destra nella barra di navigazione troverai dei bottoni che ti reindirizzeranno ai vari servizi del SIO. <br>
+In questo sito potrai:  <br>
+Cliccando su CUP accederai al servizio di prenotazione degli esami, dove potrai inserire i tuoi dati e prenotare l'esame da te richiesto. <br>
+Cliccando su RIS potrai vedere gli esami da te effettuati con annessi referti. <br>
+Cliccando su DRG verificare le diagnosi a te correlate prima di essere dimesso. <br>
+Cliccando su SDO potrai compilare il tuo foglio di dimissione, che ti permetterà di lasciare la struttura.   <br>
+<br> 
+<br>
+</p>
 
 
 
